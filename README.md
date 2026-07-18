@@ -105,7 +105,7 @@ COVID-19 info chatbot in Filipino (Tagalog), built with Python and the RASA fram
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=trbbmnglg&theme=dark&hide_border=true&background=0d1117&stroke=A100FF&ring=A100FF&fire=A100FF&currStreakLabel=A100FF&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trbbmnglg&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=A100FF&text_color=c9d1d9&cache_seconds=1800)](https://github.com/trbbmnglg)
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trbbmnglg&theme=github_dark)](https://github.com/trbbmnglg)
 
 </div>
 
