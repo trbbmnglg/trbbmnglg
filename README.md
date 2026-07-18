@@ -113,6 +113,6 @@ COVID-19 info chatbot in Filipino (Tagalog), built with Python and the RASA fram
 
 <div align="center">
 
-*Building things that work at the edge — AI-first, privacy-respecting, zero fluff.*
+*Nothing is true; everything is permitted.*
 
 </div>
